@@ -1,1 +1,1 @@
-c3RyZWFtbGl0Pj0xLjI4LjAK
+streamlit>=1.28.0
